@@ -1,0 +1,21 @@
+{
+  "name": "guessmynumberconsolegame",
+  "version": "1.0.0",
+  "description": "CLI app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "number",
+    "game",
+    "CLI",
+    "app"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^10.0.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
